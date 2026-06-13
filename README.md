@@ -21,6 +21,8 @@
 ```bash
 git clone git@github.com:NOMAGIX-SOLUTIONS/lumere-salon.git
 
+cd lumere-salon
+
 npm install
 
 npm run dev
